@@ -1,0 +1,1 @@
+print("Server-Script wurde geladen.")
